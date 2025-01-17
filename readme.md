@@ -26,7 +26,7 @@ Para baixar este projeto do GitHub, siga os passos abaixo:
 3. Execute o comando:
 
 ```sh
-git clone https://github.com/usuario/projeto-web-components.git
+git clone https://github.com/mjsdesen/webcomponents.git
 ```
 
 4. Navegue até o diretório do projeto:
