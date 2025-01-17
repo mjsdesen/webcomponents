@@ -11,8 +11,10 @@ webComponents/
 │   ├── body.html
 │   ├── menu.html
 │   └── footer.html
+├── css/
+│   └── styles.css
 ├── js/
-│   └── components.js
+│   └── script.js
 ├── index.html
 └── readme.md
 ```
