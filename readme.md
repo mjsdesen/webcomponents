@@ -38,3 +38,5 @@ cd projeto-web-components
 ```
 
 Agora você está pronto para explorar e utilizar o `MenuComponent` em suas aplicações web.
+
+[Veja o tutorial passo a passo aqui no meu blog](https://msdicas.com.br/como-criar-webcomponent-reutilizavel-em-javascript/)
